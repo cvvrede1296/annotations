@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidAnnotationsIntegration</string>
+    <string name="tv_description">I am the description, please tap the button to hide me.</string>
+    <string name="btn_hide">Hide Description</string>
+    <string name="btn_unhide">Unhide Description</string>
+</resources>
